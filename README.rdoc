@@ -1,0 +1,2 @@
+A small app created to get familiar with Heroku mySQL setup.
+Add tasks to a database.
